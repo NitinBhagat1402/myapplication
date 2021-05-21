@@ -1,5 +1,7 @@
 apply plugin: 'com.android.application'
 
+def appName = "Android.test"
+
 android {
     compileSdkVersion 30
     defaultConfig {
